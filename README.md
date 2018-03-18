@@ -14,10 +14,10 @@
 
 This video is meant to be a review of the second set of topics in Ruby on Rails.
 
-There will be more vidoes building out the rest of TODOMVC.
+There will be more videos building out the rest of TODOMVC.
 
 ## Code
 
-- [Start Code](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-4)
-- [End Code](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-5)
+- [Start Code](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-3)
+- [End Code](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-4)
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/todomvc-4-refactoring-with-partials-and-helpers'>TodoMVC 4: Refactoring with Partials and Helpers </a> on Learn.co and start learning to code for free.</p>
