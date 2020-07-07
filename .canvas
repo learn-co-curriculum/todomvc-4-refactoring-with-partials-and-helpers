@@ -1,0 +1,6 @@
+---
+:lessons:
+- :id: 10889
+  :course_id: 356
+  :canvas_url: https://learning.flatironschool.com/courses/356/pages/todomvc-4-refactoring-with-partials-and-helpers
+  :type: page
